@@ -1,6 +1,6 @@
 # Annie's Escape 
 
-<img src="./Diagrams/Icon.png" alt="Header" style="position: absolute; right:0%; top:0%; margin-right: 20px; height:150px;width:150px"/>
+<img src="./Diagrams/ICON.png" alt="Header" style="position: absolute; left:0%; top:0%; margin-right: 20px; height:150px;width:150px"/>
 
 
 
